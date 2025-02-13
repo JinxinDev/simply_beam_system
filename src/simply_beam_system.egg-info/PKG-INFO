@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: simply_beam_system
+Version: 0.1.0
+Summary: A simple beam design system using an LLM.
+Home-page: https://github.com/JinxinDev/simply_beam_system
+Author: Jinxin Chen
+Author-email: jchen161@stevens.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: openai
+Requires-Dist: python-dotenv
